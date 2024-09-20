@@ -1,0 +1,19 @@
+# dot files
+/Keil_Project/.vscode/launch.json
+/Keil_Project/.settings
+/Keil_Project/.eide/log
+/Keil_Project/.eide.usr.ctx.json
+
+# project out
+/Keil_Project/build
+/Keil_Project/bin
+/Keil_Project/obj
+/Keil_Project/out
+/Keil_Output
+
+/HAL
+
+
+# eide template
+*.ept
+*.eide-template
